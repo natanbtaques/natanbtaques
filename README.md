@@ -15,7 +15,7 @@
   <a href="https://instagram.com/natanbtaques" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
 
-<img src="https://media4.giphy.com/media/jkSvCVEXWlOla/giphy.gif?cid=ecf05e476x3u270uf1cshsuq3zycbbol0q7crx0zwpqvw9ls&amp;rid=giphy.gif&amp;ct=g" alt="Working Work From Home GIF" style="width: 500px; height: 274px; left: 0px; top: 0px; opacity: 0;">
+<img align="left" src="https://media4.giphy.com/media/jkSvCVEXWlOla/giphy.gif?cid=ecf05e476x3u270uf1cshsuq3zycbbol0q7crx0zwpqvw9ls&amp;rid=giphy.gif&amp;ct=g" alt="Working Work From Home GIF" style="width: 150px; height: 274px; left: 0px; top: 0px; opacity: 0;">
  
 </div>
 
