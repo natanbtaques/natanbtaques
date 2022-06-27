@@ -14,7 +14,7 @@
  <a href="https://www.linkedin.com/in/natan-b-taques-38347218b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/natanbtaques" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <br> 
- <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
@@ -22,11 +22,8 @@
   
   <br><br>
   🪴 
- • Estudando Flutter.
+ • Studing Flutter.
 <br>
   🪴 
-• A procura de oportunidades e projetos.
-<br>
-  🪴 
-• Pronomes: Ele/dele.
+• Looking for oportunities and new projects
   </div>
