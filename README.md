@@ -6,6 +6,11 @@
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=natanbtaques&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanbtaques&layout=compact&langs_count=7&theme=vue-dark"/>
     </div>
+      🪴 
+ • Studing VUE.Js and Python.
+<br>
+  🪴 
+• Looking for oportunities and new projects
 <div style="display: inline_block"><br>
 
 
@@ -19,12 +24,6 @@
 <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
-  
-  <br><br>
-  🪴 
- • Studing VUE.Js and Python.
-<br>
-  🪴 
-• Looking for oportunities and new projects
-  </div>
+   </div>
+
+ 
