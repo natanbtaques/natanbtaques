@@ -11,7 +11,7 @@
 
 
 <div align="center"> 
-<h3 align="center">Linguagens e Softwares:</h3>
+<h3 align="center">Languages ​​and Software:</h3>
 <img align="center"  height="30" width="40" src= "https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor">
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,7 +25,7 @@
 
  
 <br> 
-<h3 align="center">Conecte-se comigo:</h3>
+<h3 align="center">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/natantaques/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
