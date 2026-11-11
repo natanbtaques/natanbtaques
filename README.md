@@ -1,17 +1,27 @@
-<h2 align="center">Olá, eu sou o Natan 👋</h2>
-<p align="center">Software Engineer • Cuiabá, MT</p>
-
-<p align="center">
-  <img height="165" src="./profile-summary-card-output/github_dark/3-stats.svg" />
-  <img height="165" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,html,css,py,cs,docker,postgres&perline=11&theme=dark" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/natantaques/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div align="center">
+ <h1> Welcome to my GitHub! </h1>
+  </div>
+<div align="center">
+  <a href="https://github.com/natanbtaques">
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=natanbtaques&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanbtaques&layout=compact&langs_count=7&theme=vue-dark"/>
   </a>
-</p>
+</div>
+
+<div align="center"> 
+<h3 align="center">Languages and Software:</h3>
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+
+<br> 
+<h3 align="center">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/natantaques/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
